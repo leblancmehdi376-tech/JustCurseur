@@ -121,7 +121,7 @@ export const THEMES = [
   },
   {
     id: 'outfit',
-    name: 'Style d'un vétement',
+    name: 'Style',
     emoji: '🩲​',
     description: "Niveau de beauté d'un vétement",
     color: '#160e86',
