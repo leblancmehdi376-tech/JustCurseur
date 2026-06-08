@@ -119,6 +119,38 @@ export const THEMES = [
     color: '#1de9b6',
     scale: "1 = Camping sous la pluie au bord de l'autoroute · 10 = Île paradisiaque privée full gratuite",
   },
+  {
+    id: 'outfit',
+    name: 'Style d'un vétement',
+    emoji: '🩲​',
+    description: "Niveau de beauté d'un vétement",
+    color: '#160e86',
+    scale: "1 = Dégaine de shlag · 10 = Prime de la classe",
+  },
+  {
+    id: 'Sexe',
+    name: 'Lieux pour le sexe',
+    emoji: '🍆​',
+    description: "Meilleur endroit pour foudroyer ou se faire foudroyer",
+    color: '#ff0101',
+    scale: "1 = Dans un buisson de ronces · 10 = Hotél 5 étoiles",
+  },
+  {
+    id: 'Déssin Animé',
+    name: 'Déssin Animé',
+    emoji: '💿',
+    description: "Niveau de qualité/popularité",
+    color: '#31b8b8',
+    scale: "1 = Un dessin Animé fait par enzo sur paint · 10 = Le chef d'oeuvre qu'ils pense étre",
+  },
+  {
+    id: 'Activité',
+    name: 'Activité entre pote',
+    emoji: '🎢',
+    description: "Niveau de fun",
+    color: '#b506d8',
+    scale: "1 = Patte à modelé avec de la terre · 10 = Saut en parachute",
+  },
 ];
 
 export const PLAYER_EMOJIS = [
